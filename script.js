@@ -7,5 +7,5 @@ function pegarResposta(event) {
 function pegar() {
 
     let nome = document.getElementById("nome").value
-    alert("Olá" + nome);
+    alert("Olá " + nome);
 }
