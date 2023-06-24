@@ -68,6 +68,7 @@ form fieldset{
     color: rgb(189, 176, 207);
     background-color: #111;
     box-shadow: 0 8px 7px rgba(0, 0, 0, 0.5);
+    border-radius:2rem;
 }
 legend{
     border-radius: 1em;
