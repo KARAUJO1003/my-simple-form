@@ -69,6 +69,7 @@ form fieldset{
     background-color: #111;
     box-shadow: 0 8px 7px rgba(0, 0, 0, 0.5);
     border-radius:2rem;
+    height:35rem;
 }
 legend{
     border-radius: 1em;
